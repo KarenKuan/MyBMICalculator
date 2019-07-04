@@ -86,6 +86,8 @@ public class MainActivity extends AppCompatActivity {
                 tvComment.setText("");
             }
         });
+
+        // This is new line
     }
 
     @Override
