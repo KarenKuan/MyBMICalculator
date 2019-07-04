@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My BMI Calculator</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="resetData">RESET DATA</string>
+</resources>
